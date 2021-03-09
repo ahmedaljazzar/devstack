@@ -1,4 +1,4 @@
-Open edX Devstack |Build Status|
+Test |Build Status|
 ================================
 
 Tahoe Devstack Docs
